@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QdeProjectsBuildInfo>
+<qdeBuildInfo IMemento.internal.id="C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6" buildConfig="_x86_g" projectName="Project6">
+<srcDirs>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86/o</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86/o-g</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6</element>
+</srcDirs>
+<libDirs>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86/o-g</element>
+<element>C:/QNX650/target/qnx6/x86/lib</element>
+<element>C:/QNX650/target/qnx6/x86/usr/lib</element>
+</libDirs>
+<incDirs>
+<element>C:/QNX650/target/qnx6/usr/include</element>
+<element>C:/QNX650/target/qnx6/usr/include/cpp/c</element>
+<element>C:/QNX650/target/qnx6/usr/include/cpp</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86/o-g</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86/o</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/x86</element>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6</element>
+</incDirs>
+<libs/>
+<SRCS>
+<element>C:/Users/sdh9795/Desktop/WORKING/Momentics/Project6/Project6.cc</element>
+</SRCS>
+</qdeBuildInfo>
+</QdeProjectsBuildInfo>
