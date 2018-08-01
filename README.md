@@ -1,0 +1,2 @@
+# QNX_Oscilloscope
+Reads analog voltage levels using a Helios PC running Blackberry’s QNX OS. Transfers these voltage samples to an STM32 ARM microcontroller via a custom serial data transfer protocol. The microcontroller displays the voltage levels on a pulse width modulation driven servo motor. Operates without visible quantizing errors on ±5 Volt AC signals running as slow as 0.5 Hz. Built using C and C++.
